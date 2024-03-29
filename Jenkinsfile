@@ -70,7 +70,7 @@ pipeline {
                         "files": [
                         {
                         "pattern": "php-todo.zip",
-                        "target": "generic-local/php-todo",
+                        "target": "PBL2/php-todo",
                         "props": "type=zip;status=ready"
 
 
