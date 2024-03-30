@@ -10,7 +10,7 @@
 
     php artisan migrate
 
-    php artisan serve
+    php artisan server
 
 [Complete Tutorial](https://laravel.com/docs/5.2/quickstart)
 #e
